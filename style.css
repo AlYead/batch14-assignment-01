@@ -1,0 +1,41 @@
+/* -------------------Shered Style---------------------- */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.btn-1 {
+  background-color: #1d4ed8;
+  padding: 12px 41.5px;
+  border: none;
+  border-radius: 12px;
+
+  color: #ffff;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+}
+
+
+/* --------------------------Header Part-------------------- */
+
+/* ----------Nav Section----------- */
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  padding: 23.5px 0px;
+  align-items: center;
+}
+
+.nav-list {
+  display: flex;
+  list-style: none;
+  gap: 24px;
+}
+
+.nav-list li {
+  color: #575757;
+  line-height: 25.6px;
+}
